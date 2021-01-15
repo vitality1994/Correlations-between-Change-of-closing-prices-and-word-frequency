@@ -17,5 +17,9 @@ My question here is whether there is enough linear relationship between change i
 4. Apply linear regression to check the correlation between the change of closing prices and the frequency of the word. 
 (file name: Relationship between word 'Iphone' and closing price of Apple stock..ipynb)
 
+# Result
 
 <img width="140" alt="캡처1" src="https://user-images.githubusercontent.com/68969884/104713610-1cc9e580-56f2-11eb-9ce4-dcab9e6b7ed4.PNG">
+
+<img width="451" alt="캡처2" src="https://user-images.githubusercontent.com/68969884/104713786-57338280-56f2-11eb-9354-1e654527821b.PNG">
+
