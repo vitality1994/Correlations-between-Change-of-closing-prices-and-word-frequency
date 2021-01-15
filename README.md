@@ -25,8 +25,5 @@ My question here is whether there is enough linear relationship between change i
 
 
 # Condition
-Ex) Frequency of words between 12.22. 10 ~ 11am (US est time) and 12.23. 10:59~11:59am(US est time)
-
-
-
+Ex) Frequency of words between 12.22. 10 ~ 11am (US est time) and 12.23. 10:59~11:59am(US est time)   
     Change of closing prices between 12.22. 4pm (US est time) and 12.23. 4pm (US est time)
