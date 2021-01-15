@@ -6,16 +6,16 @@ My question here is whether there is enough linear relationship between change i
 
 # Procedure
 1. Extort data of closing prices of stock from Yahoo Finance and make an excel file. (We can specify a timeframe and a company) 
-(file name: graph_close_prices.ipynb)
+(graph_close_prices.ipynb)
 
 2. Extort titles of news from Naver(The biggest Korean website) and calculate the frequency of the specific words. 
-(file name: Relationship between word 'Iphone' and closing price of Apple stock..ipynb)
+(Relationship between word 'Iphone' and closing price of Apple stock..ipynb)
 
 3. Combine the data frame of change in closing prices and the data frame of the frequency of the word to make one data frame. 
-(file name: Relationship between word 'Iphone' and closing price of Apple stock..ipynb)
+(Relationship between word 'Iphone' and closing price of Apple stock..ipynb)
 
 4. Apply linear regression to check the correlation between the change of closing prices and the frequency of the word. 
-(file name: Relationship between word 'Iphone' and closing price of Apple stock..ipynb)
+(Relationship between word 'Iphone' and closing price of Apple stock..ipynb)
 
 # Result
 
