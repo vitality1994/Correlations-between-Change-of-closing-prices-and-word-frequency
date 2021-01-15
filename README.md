@@ -5,16 +5,16 @@ The easiest way to get information about foreign(not Korean) companies to Korean
 My question here is whether there is enough linear relationship between change in stock price and frequency of specific words.
 
 # Procedure
-1. Extort data of closing prices of stock from Yahoo Finance and make an excel file. (We can specify a timeframe and a company) 
+1. Extort data of closing prices of stock from Yahoo Finance and make an excel file. (We can specify a timeframe and a company)    
 (graph_close_prices.ipynb)
 
-2. Extort titles of news from Naver(The biggest Korean website) and calculate the frequency of the specific words. 
+2. Extort titles of news from Naver(The biggest Korean website) and calculate the frequency of the specific words.    
 (Relationship between word 'Iphone' and closing price of Apple stock..ipynb)
 
-3. Combine the data frame of change in closing prices and the data frame of the frequency of the word to make one data frame. 
+3. Combine the data frame of change in closing prices and the data frame of the frequency of the word to make one data frame.    
 (Relationship between word 'Iphone' and closing price of Apple stock..ipynb)
 
-4. Apply linear regression to check the correlation between the change of closing prices and the frequency of the word. 
+4. Apply linear regression to check the correlation between the change of closing prices and the frequency of the word.    
 (Relationship between word 'Iphone' and closing price of Apple stock..ipynb)
 
 # Result
