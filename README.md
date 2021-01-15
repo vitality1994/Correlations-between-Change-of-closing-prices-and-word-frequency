@@ -23,3 +23,11 @@ My question here is whether there is enough linear relationship between change i
 
 <img width="451" alt="캡처2" src="https://user-images.githubusercontent.com/68969884/104713786-57338280-56f2-11eb-9354-1e654527821b.PNG">
 
+
+# Condition
+
+For example, change of closing prices on 12.23 is change between 12.23. and 12.22.
+which means, it represent change 12.22. 4pm ~ 12.23. 4pm
+When US est time is 12.22. 4pm, Korea is 12.23. 5~6am.
+When US est time is 12.23 4pm, Korea is 12.24 5~6am.
+So, here we could see the correlation between the frequency of words in Korean news which are uploaded between 12.22. 10~11am(US est time) ~  12.23. 10:59~11:59am(US est time) and change of closing prices between 12.22. 4 pm(US est time) ~ 12.23. 4 pm(US est time).
