@@ -1,4 +1,4 @@
-# Project Title: Correlation between Closing Prices of Stocks and Words Frequency of Korean News Titles
+# Project Title: Correlation between Change of Closing Prices of Stocks and Words Frequency of Korean News Titles
 
 # Motivation:
 The easiest way to get information about foreign(not Korean) companies to Korean people is to trace how Korean internet news says about those companies.
