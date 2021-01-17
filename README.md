@@ -21,9 +21,9 @@ My question here is whether there is enough linear relationship between change i
 # Result
 
 ![image](https://user-images.githubusercontent.com/68969884/104856084-6a0aaa80-58de-11eb-8c36-0e8236d9b945.png)
+![image](https://user-images.githubusercontent.com/68969884/104856096-84dd1f00-58de-11eb-9192-54dc4f5cc1fc.png)
 
 
-<img width="451" alt="캡처2" src="https://user-images.githubusercontent.com/68969884/104713786-57338280-56f2-11eb-9354-1e654527821b.PNG">
 
 
 # Condition
