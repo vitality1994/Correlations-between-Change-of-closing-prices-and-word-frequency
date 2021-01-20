@@ -3,7 +3,7 @@ Correlation between Change of Closing Prices of Stocks and Words Frequency of Ko
 
 # Motivation:
 The easiest way to get information about foreign(not Korean) companies to Korean people is to trace how Korean internet news says about those companies.
-My question here is whether there is enough linear relationship between change in stock price and frequency of specific words.
+My question here is whether there is enough linear relationship between change in stock price and frequency of specific words in news titles.
 
 # Procedure
 1. Extort data of closing prices of stock from Yahoo Finance and make an excel file. (We can specify a timeframe and a company)    
